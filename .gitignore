@@ -1,0 +1,15 @@
+/backup/
+/cookies/
+/data/
+/venv/
+
+.chromedriver.swo
+.chromedriver.swp
+
+ca.crt
+cookies.json
+domclick.xlsx
+ozon_points.json
+wb_points.json
+wtf.py
+yandex_points.json

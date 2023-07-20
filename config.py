@@ -1,0 +1,58 @@
+cookies = {
+    'ns_session': '6dbaff48-59c3-4698-9a6e-c57eb90a91cf',
+    'ftgl_cookie_id': '67cfd4a2eaa2d3f715c8f1a048cd0388',
+    '_ym_uid': '1689453505744115468',
+    '_ym_d': '1689453505',
+    '_gcl_au': '1.1.555640350.1689453506',
+    'adtech_uid': '8da37cd9-3a3f-453b-9580-dd61d6d7c8fc%3Adomclick.ru',
+    'top100_id': 't1.7711713.821710600.1689453505971',
+    '_ga': 'GA1.1.1640156449.1689453506',
+    'RETENTION_COOKIES_NAME': '3a5af82d7aea4a0aac2cf54d6d4f4916:Vvu0qLFpyY517AHgyoov0MIRT5k',
+    'sessionId': '0a644802721d45b39e35be4d79039134:PUC3FCO_ojuTPmaN7svrxD9e8oE',
+    'UNIQ_SESSION_ID': 'ff844b8877964136a9f6b131abd14b6d:CIBFZztOp2i5IVG0vy6tCV_NSj4',
+    'region': '{%22data%22:{%22name%22:%22%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%22%2C%22kladr%22:%2277%22%2C%22guid%22:%221d1463ae-c80f-4d19-9331-a1b68a85b553%22}%2C%22isAutoResolved%22:true}',
+    'tmr_lvid': '41628bf7d07ac0c14c28a1090dbec319',
+    'tmr_lvidTS': '1689453507283',
+    'cookieAlert': '1',
+    'is-banner-number-one-hidden': 'true',
+    'qrator_jsr': '1689794490.385.CuNFB6HL0vnDLljY-cp21qhac9o95i5rn1qccpugfbish03ot-00',
+    'qrator_jsid': '1689794490.385.CuNFB6HL0vnDLljY-81mv8mlnp37jdn4h3t1om0dausal6i69',
+    'qrator_ssid': '1689794490.871.cUbyfVYFedQ40f7C-evbq3a6p9ba5c1pb42cb4m4etjr7hhsp',
+    'last_visit': '1689783691202%3A%3A1689794491202',
+    '_ga_NP4EQL89WF': 'GS1.1.1689794491.8.0.1689794491.60.0.0',
+    '_ym_isad': '2',
+    'tmr_reqNum': '85',
+    'autoDefinedRegion': '7b4698a7-f8b8-424c-9195-e24f3ddb88f3:7b4698a7-f8b8-424c-9195-e24f3ddb88f3:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3:spb',
+    'dtCookie': 'v_4_srv_13_sn_AF28F3DD73CDEDF1084ABC555E263D0D_perc_100000_ol_0_mul_1_app-3Aa90421fc39b1dbac_1_app-3Aca312da39d5a5d07_1_rcs-3Acss_0',
+    '_visitId': '348d9fb9-94eb-4d0f-8103-836b62640676-f4f0dcc432ac8ba6',
+    't3_sid_7711713': 's1.1649866503.1689794491200.1689794496208.13.3',
+}
+
+headers = {
+    'Accept': 'application/json, text/plain, */*',
+    'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+    # 'Cookie': 'ns_session=6dbaff48-59c3-4698-9a6e-c57eb90a91cf; ftgl_cookie_id=67cfd4a2eaa2d3f715c8f1a048cd0388; _ym_uid=1689453505744115468; _ym_d=1689453505; _gcl_au=1.1.555640350.1689453506; adtech_uid=8da37cd9-3a3f-453b-9580-dd61d6d7c8fc%3Adomclick.ru; top100_id=t1.7711713.821710600.1689453505971; _ga=GA1.1.1640156449.1689453506; RETENTION_COOKIES_NAME=3a5af82d7aea4a0aac2cf54d6d4f4916:Vvu0qLFpyY517AHgyoov0MIRT5k; sessionId=0a644802721d45b39e35be4d79039134:PUC3FCO_ojuTPmaN7svrxD9e8oE; UNIQ_SESSION_ID=ff844b8877964136a9f6b131abd14b6d:CIBFZztOp2i5IVG0vy6tCV_NSj4; region={%22data%22:{%22name%22:%22%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%22%2C%22kladr%22:%2277%22%2C%22guid%22:%221d1463ae-c80f-4d19-9331-a1b68a85b553%22}%2C%22isAutoResolved%22:true}; tmr_lvid=41628bf7d07ac0c14c28a1090dbec319; tmr_lvidTS=1689453507283; cookieAlert=1; is-banner-number-one-hidden=true; qrator_jsr=1689794490.385.CuNFB6HL0vnDLljY-cp21qhac9o95i5rn1qccpugfbish03ot-00; qrator_jsid=1689794490.385.CuNFB6HL0vnDLljY-81mv8mlnp37jdn4h3t1om0dausal6i69; qrator_ssid=1689794490.871.cUbyfVYFedQ40f7C-evbq3a6p9ba5c1pb42cb4m4etjr7hhsp; last_visit=1689783691202%3A%3A1689794491202; _ga_NP4EQL89WF=GS1.1.1689794491.8.0.1689794491.60.0.0; _ym_isad=2; tmr_reqNum=85; autoDefinedRegion=7b4698a7-f8b8-424c-9195-e24f3ddb88f3:7b4698a7-f8b8-424c-9195-e24f3ddb88f3:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3:spb; dtCookie=v_4_srv_13_sn_AF28F3DD73CDEDF1084ABC555E263D0D_perc_100000_ol_0_mul_1_app-3Aa90421fc39b1dbac_1_app-3Aca312da39d5a5d07_1_rcs-3Acss_0; _visitId=348d9fb9-94eb-4d0f-8103-836b62640676-f4f0dcc432ac8ba6; t3_sid_7711713=s1.1649866503.1689794491200.1689794496208.13.3',
+    'Origin': 'https://domclick.ru',
+    'Pragma': 'no-cache',
+    'Referer': 'https://domclick.ru/',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-site',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+    'sec-ch-ua': '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+}
+
+
+params = {
+    'address': '1d1463ae-c80f-4d19-9331-a1b68a85b553',
+    'offset': '0',
+    'limit': '30',
+    'sort': 'qi',
+    'sort_dir': 'desc',
+    'deal_type': 'rent',
+    'category': 'commercial'
+}
